@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /* print Celsius-Fahrenheit table 
-	for celsius = -17 - 148.9; floating-point version */  
+	for celsius = 0 - 300; floating-point version */  
 
 int main(int argc, char *argv[]){
 	float fahr, celsius;
